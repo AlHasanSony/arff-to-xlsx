@@ -11,7 +11,7 @@ Convert ARFF files to Excel format (.xlsx) using Python.
 ## Installation
 
 1. Clone this repository.
-2. Install openpyxl: `pip install openpyxl`.
+2. Install dependencies: `pip install -r requirements.txt`.
 
 ## Usage
 
